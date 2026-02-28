@@ -1,0 +1,1 @@
+import{_ as e,c as o,a as s,o as a}from"./index-CLSNz4M9.js";const c={},n={class:"max-w-7xl mx-auto px-4 py-8"};function r(l,t){return a(),o("div",n,[...t[0]||(t[0]=[s("h1",{class:"text-2xl font-bold uppercase tracking-widest"},"Contacto",-1)])])}const _=e(c,[["render",r]]);export{_ as default};
