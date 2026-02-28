@@ -1,0 +1,1 @@
+import{_ as s,c as o,a as t,o as a}from"./index-Dvl3jJrO.js";const c={},n={class:"max-w-7xl mx-auto px-4 py-8"};function r(i,e){return a(),o("div",n,[...e[0]||(e[0]=[t("h1",{class:"text-2xl font-bold uppercase tracking-widest"},"¿Dónde nos ubicamos?",-1)])])}const l=s(c,[["render",r]]);export{l as default};
